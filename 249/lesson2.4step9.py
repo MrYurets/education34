@@ -21,7 +21,7 @@ try:
     button = browser.find_element(By.ID, "solve")
     browser.execute_script("return arguments[0].scrollIntoView(true);", button)
     button.click()
-
+    print("хорош")
 finally:
     time.sleep(20)
     # закрываем браузер после всех манипуляций
