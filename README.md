@@ -1,5 +1,4 @@
-# education34
-The Stepik selenium courses
+# The Stepik selenium courses
 https://stepik.org/course/575/syllabus
 Замечательный курс по автоматизации тестирования с помощью Selenium,
 подойдёт практически всем. Отличные задания, великолепные преподаватели,
